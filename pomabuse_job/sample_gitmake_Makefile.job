@@ -4,7 +4,7 @@ ProjectName="Hello_Git"										#	user friendly, human readable project name (f
 VSCNAME=git													#	version checkout tool name and functions prefix. simple word (typical: "svn" or "rcs" or ...)
 URL="git://git.code.sf.net/p/pomabuse-sampledata-git/code"	#	remote repository address (i.e. svn+ssh://ourserver.local/repositories/coolprojects/thisone
 SANDBOX=~/auto_sandbox/sample_from_git_readonly				#	local sandbox path (i.e. ~/sandboxes)
-VCSTRUNK=master												#	specifier for trunk/branch
+VCSTRUNK='/master'											#	specifier for trunk/branch'
 REVISION=''													#	specifier for release version number (HEAD)
 
 # --- this block can get predefined somewhere else
