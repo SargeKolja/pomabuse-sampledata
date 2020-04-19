@@ -38,3 +38,4 @@ int main( int argc, const char *argv[] )
 	return 0;
 }
 // faked edit in file hello_git/hellogit.cpp: YWI2MDkzYTIyMDY3MTZmNTU2ZTkwMzBjYWJkYTMyMWUgKi0K, just to simulate a code change
+// faked edit in file hello_git/hellogit.cpp: Mzg3MDMyZmVlOTY2NDUxZGNjMmViMDY4ZjM1YTc4NzMgKi0K, just to simulate a code change
